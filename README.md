@@ -1,7 +1,7 @@
 Shell Backdoor Anti WAF
 
 Deskripsi:
-Shell Backdoor Anti WAF ini adalah contoh dari sebuah skrip PHP yang dirancang untuk memberikan akses tak sah ke server melalui mekanisme login yang sangat sederhana. Skrip ini juga memiliki kemampuan untuk mengeksekusi kode PHP yang diambil dari URL eksternal. Meskipun ini adalah contoh teknis dari metode yang digunakan dalam eksploitasi keamanan, penggunaannya pada sistem produksi sangat tidak disarankan karena potensi risikonya yang tinggi.
+Shell Backdoor Anti WAF ini adalah sebuah skrip PHP yang dirancang untuk memberikan akses tak sah ke server melalui mekanisme login yang sangat sederhana. Skrip ini juga memiliki kemampuan untuk mengeksekusi kode PHP yang diambil dari URL eksternal. Meskipun ini adalah contoh teknis dari metode yang digunakan dalam eksploitasi keamanan, penggunaannya pada sistem produksi sangat tidak disarankan karena potensi risikonya yang tinggi.
 
 Fitur
 Autentikasi Pengguna: Skrip menggunakan cookie sederhana untuk mengidentifikasi pengguna yang telah login. Hanya pengguna yang memiliki cookie dengan nilai tertentu yang dapat mengakses fungsionalitas utama dari backdoor ini.
